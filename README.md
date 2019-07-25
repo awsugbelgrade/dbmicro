@@ -6,7 +6,7 @@ End of October / Tuesday or Thursday/ we can discuss about time/timezones
 - everything is in English
 - remote via Chime/Zoom … / Live stream via YouTube/Twitch + live audiences connected via chime/zoom too (AWS User groups)
 - everything completes in 2 hours / approx. 8 presentations
-- one moderator to announce speakers and ask questions
+- one or two moderators to announce speakers and ask questions
 - break after 4 presentations with 10 min QA – speakers from first or presentations are all together answering questions from moderator/ questions via twitter, youtube
 - speakers from AWS Heroes Cohort being Heroes or not + AWS DB experts + DB experts
 - we will publish one 2hour video from the conference but also 8 videos that feature a single speaker
