@@ -13,6 +13,18 @@ End of October / Tuesday or Thursday/ we can discuss about time/timezones
 - we can reuse this model and make new presentations every 3 months
 - it is possible to pre-record the session but it is required to be available for questions and to talk over your own presentation
 
+
+Speakers - working titles
+- Matthew Bonig - noSQL track - TBA
+- Rob Koch - Redshift and symbiotic relationship with RDS PostgreSQL
+- Richard H. Boyd - noSQL track - TBA
+- Alvaro Hernandez T - RDS Postgres Configuration for Humans
+- Shannon Hogue - noSQL track - TBA
+- Goran Opacic - Data API for Amazon Aurora Serverless
+- Yitzi Ginzberg - Jump into serverless databases with PostgreSQL and Aurora
+-...
+
+
 Possible topics
 - Aurora Serverless
 - Data API for Amazon Aurora Serverless
