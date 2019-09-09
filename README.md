@@ -8,7 +8,7 @@ End of October / Tuesday or Thursday/ we can discuss about time/timezones
 - everything completes in 2 hours / approx. 8 presentations
 - one or two moderators to announce speakers and ask questions
 - break after 4 presentations with 10 min QA – speakers from first or presentations are all together answering questions from moderator/ questions via twitter, youtube
-- speakers from AWS Heroes Cohort being Heroes or not + AWS DB experts + DB experts
+- speakers from AWS community + AWS DB experts + DB experts
 - we will publish one 2hour video from the conference but also 8 videos that feature a single speaker
 - we can reuse this model and make new presentations every 3 months
 - it is possible to pre-record the session but it is required to be available for questions and to talk over your own presentation
