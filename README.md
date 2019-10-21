@@ -2,7 +2,8 @@
 
 Working title: AWS DB micro conference
  
-November 14th 2019 / we can discuss about time/timezones
+November 14th 2019 3PM Boston time
+/ we can discuss about time/timezones
 
 - every speaker has 10 minutes to talk about some cool AWS Database tech - fast tech presentation (check this style https://www.youtube.com/watch?v=jzeKPKpucS0 of Rick Houlihan but you have 10 minutes only)
 - everything is in English
