@@ -1,3 +1,5 @@
+![Alt text](logo-small.png?raw=true "Title")
+
 Working title: AWS DB micro conference
  
 October 14th 2019 / we can discuss about time/timezones
