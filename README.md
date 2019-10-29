@@ -18,9 +18,8 @@ November 14th 2019 3PM Boston time
 
 
 Speakers - working titles
-- Matthew Bonig - noSQL track - TBA
+- John Doyle - Securely controlling access to RDS
 - Rob Koch - Redshift and symbiotic relationship with RDS PostgreSQL
-- Richard H. Boyd - noSQL track - TBA
 - Alvaro Hernandez T - RDS Postgres Configuration for Humans
 - Shannon Hogue - noSQL track - AWS API-GW integration with DynamoDB
 - Goran Opacic - Data API for Amazon Aurora Serverless
