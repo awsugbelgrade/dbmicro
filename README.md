@@ -7,7 +7,7 @@ November 14th 2019 3PM Boston time
 
 - every speaker has 10 minutes to talk about some cool AWS Database tech - fast tech presentation (check this style https://www.youtube.com/watch?v=jzeKPKpucS0 of Rick Houlihan but you have 10 minutes only)
 - everything is in English
-- remote via Chime/Zoom … / Live stream via YouTube/Twitch + live audiences connected via chime/zoom too (AWS User groups)
+- remote via Chime/Zoom ... / Live stream via YouTube/Twitch + live audiences connected via chime/zoom too (AWS User groups)
 - everything completes in 2 hours / approx. 8 presentations
 - one or two moderators to announce speakers and ask questions
 - break after 4 presentations with 10 min QA – speakers from first or presentations are all together answering questions from moderator/ questions via twitter, youtube
@@ -18,13 +18,14 @@ November 14th 2019 3PM Boston time
 
 
 Speakers - working titles
+- Alana Alfeche - Traversing through AWS Neptune
 - John Doyle - Securely controlling access to RDS
 - Rob Koch - Redshift and symbiotic relationship with RDS PostgreSQL
 - Alvaro Hernandez T - RDS Postgres Configuration for Humans
 - Shannon Hogue - noSQL track - AWS API-GW integration with DynamoDB
 - Goran Opacic - Data API for Amazon Aurora Serverless
 - Yitzi Ginzberg - Jump into serverless databases with PostgreSQL and Aurora
--...
+...
 
 
 Possible topics
