@@ -22,9 +22,7 @@ Speakers - working titles
 - John Doyle - Securely controlling access to RDS
 - Rob Koch - Redshift and symbiotic relationship with RDS PostgreSQL
 - Alvaro Hernandez T - RDS Postgres Configuration for Humans
-- Shannon Hogue - noSQL track - AWS API-GW integration with DynamoDB
 - Goran Opacic - Data API for Amazon Aurora Serverless
-- Yitzi Ginzberg - Jump into serverless databases with PostgreSQL and Aurora
 ...
 
 
